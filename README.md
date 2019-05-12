@@ -1,4 +1,4 @@
-# SteamLibraryScraper
+# SteamLibrary Scraper
 
 Simple WPF Application i made for a client Way back that scrapes steam games.
 
